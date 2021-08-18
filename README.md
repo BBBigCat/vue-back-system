@@ -1,4 +1,4 @@
-# vue_back_system
+# vue-back-system
 
 > A Vue.js project
 
